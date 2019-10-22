@@ -1,5 +1,7 @@
 # :es: :european_castle: Barcelona àrees bàsiques de salut
 
+![Barcelona àrees bàsiques de salut](barcelona_abs.png)
+
 This repository contains an example of the actual map of Barcelona, divided by
 the health areas of the city (ABS).
 
