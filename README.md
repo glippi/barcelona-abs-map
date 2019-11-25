@@ -52,4 +52,4 @@ in a `topojson` [here](https://gist.githubusercontent.com/glippi/86b8ce8b6db37ab
 ## General info about how to plot a map
 If you are interested in know more about cartography and how to plot a topojson
 representation of a geography using `D3`, you definetely should read this
-blogposts series by Mike Bostock ([the creator of D3](https://github.com/mbostock)) [here](https://medium.com/@mbostock/command-line-cartography-part-1-897aa8f8ca2c).
+blogposts series by ([Mike Bostock](https://github.com/mbostock)) (a.k.a. the creator of D3) [here](https://medium.com/@mbostock/command-line-cartography-part-1-897aa8f8ca2c).
